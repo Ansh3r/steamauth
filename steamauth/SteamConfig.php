@@ -1,7 +1,7 @@
 <?php
 //Version 3.2
-$steamauth['apikey'] = "BAC24CC4E8A760C6BE76EDAF5C245E3A"; // Your Steam WebAPI-Key found at https://steamcommunity.com/dev/apikey
-$steamauth['domainname'] = "localhost"; // The main URL of your website displayed in the login page
+$steamauth['apikey'] = "D8513C75FB3578ADE78F341609AD6BB3"; // Your Steam WebAPI-Key found at https://steamcommunity.com/dev/apikey
+$steamauth['domainname'] = "https://steamauthphp.herokuapp.com/"; // The main URL of your website displayed in the login page
 $steamauth['logoutpage'] = "demo.php"; // Page to redirect to after a successfull logout (from the directory the SteamAuth-folder is located in) - NO slash at the beginning!
 $steamauth['loginpage'] = "demo.php"; // Page to redirect to after a successfull login (from the directory the SteamAuth-folder is located in) - NO slash at the beginning!
 
